@@ -29,5 +29,11 @@
       "en" : [ "93Back" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://keolson-uc.github.io/woodblock/manifests/93Front.json",
+    "label" : {
+      "en" : [ "93Front" ]
+    },
+    "type" : "Manifest"
   } ]
 }
