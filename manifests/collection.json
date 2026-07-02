@@ -23,5 +23,11 @@
       "en" : [ "Battle Scene from Sino-Japanese War" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://keolson-uc.github.io/woodblock/manifests/93Back.json",
+    "label" : {
+      "en" : [ "93Back" ]
+    },
+    "type" : "Manifest"
   } ]
 }
