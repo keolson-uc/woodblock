@@ -17,5 +17,11 @@
       "en" : [ "Battle Scene from Sino-Japanese War" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://keolson-uc.github.io/woodblock/manifests/single2.json",
+    "label" : {
+      "en" : [ "Battle Scene from Sino-Japanese War" ]
+    },
+    "type" : "Manifest"
   } ]
 }
