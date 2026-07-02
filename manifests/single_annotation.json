@@ -2,7 +2,7 @@
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "id" : "https://keolson-uc.github.io/woodblock/manifests/single_annotation.json",
   "type" : "Manifest",
-  "behavior" : [ "continuous" ],
+  "behavior" : [ "individuals" ],
   "label" : {
     "en" : [ "Battle Scene from Sino-Japanese War" ]
   },
@@ -80,38 +80,58 @@
           "width" : 11841
         }
       } ]
-    } ],
-    "annotations" : [ {
-      "id" : "https://example.org/s535t10t4y-mr3sp45o/canvas/t8q7duq9m2-mr3u1ivc/annotations/kda58bfh74-mr3utn7q",
+    } ]
+  }, {
+    "id" : "https://example.org/s535t10t4y-mr3sp45o/canvas/47u1ksqo5u3-mr3wvkc4",
+    "type" : "Canvas",
+    "height" : 9007,
+    "width" : 11868,
+    "label" : {
+      "en" : [ "002" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/s535t10t4y-mr3sp45o/canvas/47u1ksqo5u3-mr3wvkc4/annotation-page/h4f9149vrep-mr3wvkc4",
       "type" : "AnnotationPage",
-      "label" : {
-        "en" : [ "Inline annotations" ]
-      },
       "items" : [ {
-        "id" : "https://example.org/s535t10t4y-mr3sp45o/canvas/t8q7duq9m2-mr3u1ivc/annotations/kda58bfh74-mr3utn7q/annotation/zdly25kf7d9-mr3uvk5b",
+        "id" : "https://example.org/s535t10t4y-mr3sp45o/annotation/pevdf8y0kg-mr3wvkbo",
         "type" : "Annotation",
-        "motivation" : "tagging",
-        "target" : {
-          "type" : "SpecificResource",
-          "source" : "https://example.org/s535t10t4y-mr3sp45o/canvas/t8q7duq9m2-mr3u1ivc",
-          "selector" : [ {
-            "type" : "FragmentSelector",
-            "value" : "xywh=0,0,11868,9007"
-          } ]
-        },
-        "body" : [ {
-          "id" : "https://example.org/s535t10t4y-mr3sp45o/canvas/t8q7duq9m2-mr3u1ivc/annotations/kda58bfh74-mr3utn7q/annotation/zdly25kf7d9-mr3uvk5b/html/en/0rs7hrwiq5xn-mr3uvk5b",
-          "type" : "TextualBody",
-          "format" : "text/html",
-          "language" : "en",
-          "value" : "<p>002</p>"
-        }, {
+        "motivation" : "painting",
+        "target" : "https://example.org/s535t10t4y-mr3sp45o/canvas/47u1ksqo5u3-mr3wvkc4",
+        "body" : {
           "id" : "https://keolson-uc.github.io/woodblock/images/002/full/max/0/default.jpg",
           "type" : "Image",
           "format" : "image/jpeg",
           "height" : 9007,
           "width" : 11868
-        } ]
+        }
+      } ]
+    } ]
+  } ],
+  "structures" : [ {
+    "id" : "https://example.org/s535t10t4y-mr3sp45o/range/eqt66kb6iim-mr3wv305",
+    "type" : "Range",
+    "label" : {
+      "en" : [ "Table of contents" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/s535t10t4y-mr3sp45o/range/eqt66kb6iim-mr3wv305/range/gx2nhmsubp9-mr3xj0jp",
+      "type" : "Range",
+      "label" : {
+        "en" : [ "Front" ]
+      },
+      "items" : [ {
+        "id" : "https://example.org/s535t10t4y-mr3sp45o/canvas/t8q7duq9m2-mr3u1ivc",
+        "type" : "Canvas"
+      } ]
+    }, {
+      "id" : "https://example.org/s535t10t4y-mr3sp45o/range/eqt66kb6iim-mr3wv305/range/h6aop365bs-mr3xjtbh",
+      "type" : "Range",
+      "label" : {
+        "en" : [ "Back" ]
+      },
+      "items" : [ {
+        "id" : "https://example.org/s535t10t4y-mr3sp45o/canvas/47u1ksqo5u3-mr3wvkc4",
+        "type" : "Canvas"
       } ]
     } ]
   } ]
