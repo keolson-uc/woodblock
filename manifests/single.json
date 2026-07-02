@@ -128,10 +128,10 @@
           ]
         },
         {
-          "id": "http://3b22f86c-fd06-4f88-abbc-cd8253eea419a",
+          "id": "https://example.org/s535t10t4y-mr3sp45o/canvas/t8q7duq9m2-mr3u1ivc2",
           "type": "Annotation",
           "motivation": "painting",
-          "target": "http://3212a6f0-6b33-40f5-af4c-8ca2f032fee2#xywh=0,0,11868,9007",
+          "target": "https://example.org/s535t10t4y-mr3sp45o/canvas/t8q7duq9m2-mr3u1ivc#xywh=0,0,11868,9007",
           "body": {
             "id": "https://keolson-uc.github.io/woodblock/images/002/full/max/0/default.jpg",
             "type": "Image",
