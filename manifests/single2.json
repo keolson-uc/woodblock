@@ -171,7 +171,38 @@
           "Table of contents"
         ]
       },
-      "items": []
+      "items": [
+        {
+          "id": "https://example.org/s535t10t4y-mr3sp45o/range/eqt66kb6iim-mr3wv305/range/gx2nhmsubp9-mr3xj0jp",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Front"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://example.org/s535t10t4y-mr3sp45o/canvas/t8q7duq9m2-mr3u1ivc",
+              "type": "Canvas"
+            }
+          ]
+        },
+        {
+          "id": "https://example.org/s535t10t4y-mr3sp45o/range/eqt66kb6iim-mr3wv305/range/h6aop365bs-mr3xjtbh",
+          "type": "Range",
+          "label": {
+            "en": [
+              "Back"
+            ]
+          },
+          "items": [
+            {
+              "id": "https://example.org/s535t10t4y-mr3sp45o/canvas/47u1ksqo5u3-mr3wvkc4",
+              "type": "Canvas"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
