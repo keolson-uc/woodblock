@@ -35,5 +35,11 @@
       "en" : [ "93Front" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://keolson-uc.github.io/woodblock/manifests/93Collection.json",
+    "label" : {
+      "en" : [ "Colonel Sato. The fierce battle at Gyuso (Ninchan?) Castle" ]
+    },
+    "type" : "Collection"
   } ]
 }
