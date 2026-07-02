@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 206,
+    "height" : 300
+  }, {
+    "width" : 411,
+    "height" : 599
+  }, {
+    "width" : 822,
+    "height" : 1198
+  }, {
+    "width" : 1644,
+    "height" : 2395
+  }, {
+    "width" : 3288,
+    "height" : 4789
+  }, {
+    "width" : 6576,
+    "height" : 9577
+  } ],
+  "profile" : "level0",
+  "width" : 6576,
+  "id" : "https://keolson-uc.github.io/woodblock/images/93-001",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 9577
+}
