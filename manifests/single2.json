@@ -161,5 +161,17 @@
         }
       ]
     }
+  ],
+  "structures": [
+    {
+      "id": "https://example.org/s535t10t4y-mr3sp45o/range/eqt66kb6iim-mr3wv305",
+      "type": "Range",
+      "label": {
+        "en": [
+          "Table of contents"
+        ]
+      },
+      "items": []
+    }
   ]
 }
