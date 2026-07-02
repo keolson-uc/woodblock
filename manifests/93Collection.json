@@ -1,0 +1,62 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://keolson-uc.github.io/woodblock/manifests/93Collection.json",
+  "type" : "Collection",
+  "behavior" : [ "individuals", "together" ],
+  "label" : {
+    "en" : [ "Colonel Sato. The fierce battle at Gyuso (Ninchan?) Castle" ]
+  },
+  "metadata" : [ {
+    "label" : {
+      "en" : [ "Title (English)" ]
+    },
+    "value" : {
+      "en" : [ "Colonel Sato. The fierce battle at Gyuso (Ninchan?) Castle" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Creator" ]
+    },
+    "value" : {
+      "en" : [ "Ogata Gekkō 尾形月耕 (Japanese artist, 1859-1920)" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Date" ]
+    },
+    "value" : {
+      "en" : [ "1895" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Subject" ]
+    },
+    "value" : {
+      "en" : [ "Sino-Japanese War (1894-1895)" ]
+    }
+  } ],
+  "summary" : {
+    "en" : [ "Includes .json manifests from Front and Back of Woodblock Prints." ]
+  },
+  "items" : [ {
+    "id" : "https://keolson-uc.github.io/woodblock/manifests/93Front.json",
+    "type" : "Manifest",
+    "label" : {
+      "en" : [ "93Front" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://keolson-uc.github.io/woodblock/images/93-001/full/max/0/default.jpg",
+      "type" : "Image"
+    } ]
+  }, {
+    "id" : "https://keolson-uc.github.io/woodblock/manifests/93Back.json",
+    "type" : "Manifest",
+    "label" : {
+      "en" : [ "93Back" ]
+    },
+    "thumbnail" : [ {
+      "id" : "https://keolson-uc.github.io/woodblock/images/93-006/full/max/0/default.jpg",
+      "type" : "Image"
+    } ]
+  } ]
+}
