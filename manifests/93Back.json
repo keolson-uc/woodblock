@@ -1,0 +1,114 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://keolson-uc.github.io/woodblock/manifests/93Back.json",
+  "type" : "Manifest",
+  "behavior" : [ "continuous" ],
+  "label" : {
+    "en" : [ "93Back" ]
+  },
+  "metadata" : [ {
+    "label" : {
+      "en" : [ "Title (English)" ]
+    },
+    "value" : {
+      "en" : [ "Colonel Sato. The fierce battle at Gyuso (Ninchan?) Castle" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Creator" ]
+    },
+    "value" : {
+      "en" : [ "Ogata Gekkō 尾形月耕 (Japanese artist, 1859-1920)" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Date" ]
+    },
+    "value" : {
+      "en" : [ "1895" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Subject" ]
+    },
+    "value" : {
+      "en" : [ "Sino-Japanese War (1894-1895)" ]
+    }
+  } ],
+  "items" : [ {
+    "id" : "https://example.org/1kkyv0lz80v-mr3ynw2b/canvas/fgw5hfa5mqk-mr3yobj2",
+    "type" : "Canvas",
+    "height" : 9592,
+    "width" : 6554,
+    "label" : {
+      "en" : [ "003v" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/1kkyv0lz80v-mr3ynw2b/canvas/fgw5hfa5mqk-mr3yobj2/annotation-page/18hkni622tm-mr3yobj2",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/1kkyv0lz80v-mr3ynw2b/annotation/ih5dbfta17-mr3yobiq",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/1kkyv0lz80v-mr3ynw2b/canvas/fgw5hfa5mqk-mr3yobj2",
+        "body" : {
+          "id" : "https://keolson-uc.github.io/woodblock/images/93-006/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 9592,
+          "width" : 6554
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/1kkyv0lz80v-mr3ynw2b/canvas/inwxrkd0v2m-mr3yoix9",
+    "type" : "Canvas",
+    "height" : 9585,
+    "width" : 6517,
+    "label" : {
+      "en" : [ "002v" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/1kkyv0lz80v-mr3ynw2b/canvas/inwxrkd0v2m-mr3yoix9/annotation-page/lg3wy642l9g-mr3yoix9",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/1kkyv0lz80v-mr3ynw2b/annotation/8otb5zmpy9e-mr3yoiwv",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/1kkyv0lz80v-mr3ynw2b/canvas/inwxrkd0v2m-mr3yoix9",
+        "body" : {
+          "id" : "https://keolson-uc.github.io/woodblock/images/93-004/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 9585,
+          "width" : 6517
+        }
+      } ]
+    } ]
+  }, {
+    "id" : "https://example.org/1kkyv0lz80v-mr3ynw2b/canvas/coka2pj0jbq-mr3yopiu",
+    "type" : "Canvas",
+    "height" : 9574,
+    "width" : 6536,
+    "label" : {
+      "en" : [ "001v" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/1kkyv0lz80v-mr3ynw2b/canvas/coka2pj0jbq-mr3yopiu/annotation-page/yn0zazeyj2-mr3yopiu",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/1kkyv0lz80v-mr3ynw2b/annotation/ydwn38gcqk-mr3yopih",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/1kkyv0lz80v-mr3ynw2b/canvas/coka2pj0jbq-mr3yopiu",
+        "body" : {
+          "id" : "https://keolson-uc.github.io/woodblock/images/93-002/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 9574,
+          "width" : 6536
+        }
+      } ]
+    } ]
+  } ]
+}
