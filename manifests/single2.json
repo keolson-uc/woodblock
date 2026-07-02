@@ -1,0 +1,142 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://keolson-uc.github.io/woodblock/manifests/single2.json",
+  "type" : "Manifest",
+  "behavior" : [ "individuals" ],
+  "label" : {
+    "en" : [ "Battle Scene from Sino-Japanese War" ]
+  },
+  "metadata" : [ {
+    "label" : {
+      "en" : [ "Title (English)" ]
+    },
+    "value" : {
+      "en" : [ "Battle Scene from Sino-Japanese War" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Title (Japanese)" ]
+    },
+    "value" : {
+      "en" : [ "黃州乘取之圖" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Creator" ]
+    },
+    "value" : {
+      "en" : [ "Toyohara Chikanobu 楊洲周延 (Japanese artist, 1838-1912)" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Date" ]
+    },
+    "value" : {
+      "en" : [ "c. 1894" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Description" ]
+    },
+    "value" : {
+      "en" : [ "Inscriptions: [Upper-right] Title; [Down-left] Artist's signature" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Subject" ]
+    },
+    "value" : {
+      "en" : [ "Sino-Japanese War (1894-1895)Huangzhou 黃州 (Now 湖北省黄岡市 Hubei, China); Japanese Officer, Japanese Soldier; Chinese Soldier; Weapon, Sabre, Bayonet, Gun; Injury, Death, Corpse; Explosion, Canon; Flag, Rising Sun Flag" ]
+    }
+  }, {
+    "label" : {
+      "en" : [ "Extent" ]
+    },
+    "value" : {
+      "en" : [ "36.0 × 72.3 cm" ]
+    }
+  } ],
+  "items" : [ {
+    "id" : "https://example.org/s535t10t4y-mr3sp45o/canvas/t8q7duq9m2-mr3u1ivc",
+    "type" : "Canvas",
+    "height" : 9007,
+    "width" : 11841,
+    "label" : {
+      "en" : [ "001" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/s535t10t4y-mr3sp45o/canvas/t8q7duq9m2-mr3u1ivc/annotation-page/66g82jsps6x-mr3u1ivc",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/s535t10t4y-mr3sp45o/annotation/3jcivyawsbw-mr3u1ibd",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/s535t10t4y-mr3sp45o/canvas/t8q7duq9m2-mr3u1ivc",
+        "body" : {
+          "id" : "https://keolson-uc.github.io/woodblock/images/001/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 9007,
+          "width" : 11841
+        }
+      } ]
+    } ],
+    "annotations" : [ {
+      "id" : "https://example.org/s535t10t4y-mr3sp45o/canvas/t8q7duq9m2-mr3u1ivc/annotations/eqed3aeo98t-mr3wjc0t",
+      "type" : "AnnotationPage",
+      "label" : {
+        "en" : [ "Inline annotations" ]
+      }
+    }, {
+      "id" : "https://example.org/s535t10t4y-mr3sp45o/canvas/t8q7duq9m2-mr3u1ivc/annotations/zep3zfhwgvj-mr3wm2xt",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/s535t10t4y-mr3sp45o/canvas/t8q7duq9m2-mr3u1ivc/annotations/zep3zfhwgvj-mr3wm2xt/annotation/y59f3ns7xd-mr3wnfzb",
+        "type" : "Annotation",
+        "motivation" : "tagging",
+        "target" : "https://example.org/s535t10t4y-mr3sp45o/canvas/t8q7duq9m2-mr3u1ivc#xywh=1,31,11859,8964",
+        "body" : [ {
+          "id" : "https://example.org/s535t10t4y-mr3sp45o/canvas/t8q7duq9m2-mr3u1ivc/annotations/zep3zfhwgvj-mr3wm2xt/annotation/y59f3ns7xd-mr3wnfzb/html/en/6nmu8sxpu36-mr3wnfzb",
+          "type" : "TextualBody",
+          "format" : "text/html",
+          "language" : "en",
+          "value" : "Verso"
+        }, {
+          "id" : "https://keolson-uc.github.io/woodblock/images/002/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 9007,
+          "width" : 11868
+        } ]
+      } ]
+    }, {
+      "id" : "https://example.org/s535t10t4y-mr3sp45o/canvas/t8q7duq9m2-mr3u1ivc/annotations/7eoxi6ic145-mr3wntqu",
+      "type" : "AnnotationPage"
+    } ]
+  }, {
+    "id" : "https://example.org/s535t10t4y-mr3sp45o/canvas/47u1ksqo5u3-mr3wvkc4",
+    "type" : "Canvas",
+    "height" : 9007,
+    "width" : 11868,
+    "label" : {
+      "en" : [ "002" ]
+    },
+    "items" : [ {
+      "id" : "https://example.org/s535t10t4y-mr3sp45o/canvas/47u1ksqo5u3-mr3wvkc4/annotation-page/h4f9149vrep-mr3wvkc4",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://example.org/s535t10t4y-mr3sp45o/annotation/pevdf8y0kg-mr3wvkbo",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "target" : "https://example.org/s535t10t4y-mr3sp45o/canvas/47u1ksqo5u3-mr3wvkc4",
+        "body" : {
+          "id" : "https://keolson-uc.github.io/woodblock/images/002/full/max/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "height" : 9007,
+          "width" : 11868
+        }
+      } ]
+    } ]
+  } ]
+}
