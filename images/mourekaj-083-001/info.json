@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 371,
+    "height" : 282
+  }, {
+    "width" : 741,
+    "height" : 563
+  }, {
+    "width" : 1481,
+    "height" : 1126
+  }, {
+    "width" : 2961,
+    "height" : 2252
+  }, {
+    "width" : 5921,
+    "height" : 4504
+  }, {
+    "width" : 11841,
+    "height" : 9007
+  } ],
+  "profile" : "level0",
+  "width" : 11841,
+  "id" : "https://keolson-uc.github.io/woodblock/images/mourekaj-083-001",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 9007
+}
