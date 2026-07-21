@@ -41,5 +41,11 @@
       "en" : [ "Colonel Sato. The fierce battle at Gyuso (Ninchan?) Castle" ]
     },
     "type" : "Collection"
+  }, {
+    "id" : "https://keolson-uc.github.io/woodblock/manifests/b2x98dn17p2q.json",
+    "label" : {
+      "en" : [ "Distant View of Fengtianfu: The Bivouac of Japanese Troops (Hôtenfu enbô: Nichigun roei no zu)" ]
+    },
+    "type" : "Manifest"
   } ]
 }
