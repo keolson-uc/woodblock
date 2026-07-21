@@ -47,5 +47,11 @@
       "en" : [ "Distant View of Fengtianfu: The Bivouac of Japanese Troops (Hôtenfu enbô: Nichigun roei no zu)" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://keolson-uc.github.io/woodblock/manifests/b2x98dn17p2q_2.json",
+    "label" : {
+      "en" : [ "Distant View of Fengtianfu: The Bivouac of Japanese Troops (Hôtenfu enbô: Nichigun roei no zu)" ]
+    },
+    "type" : "Manifest"
   } ]
 }
