@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/presentation/3/context.json",
-  "id": "https://iiif-manifest.lib.uchicago.edu/ark:61001/b2x98dn17p2q",
+  "id": "https://keolson-uc.github.io/woodblock/manifests/b2x98dn17p2q",
   "type": "Manifest",
   "behavior": [
     "individuals"
